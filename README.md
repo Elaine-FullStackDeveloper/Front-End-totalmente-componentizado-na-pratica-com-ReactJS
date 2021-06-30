@@ -1,10 +1,10 @@
-#Projeto Digital Innovation One
+## Projeto Digital Innovation One
 
 Criando um front-end totalmente componentizado na prática com ReactJS
 
 Como resultado temos uma página, na qual podemos pesquisar por usuários do Github, usando apenas seu username.
 
-#Requisitos para o projeto rodar:
+# Requisitos para o projeto rodar:
 
 Instalação npm
 $ sudo apt install nodejs
