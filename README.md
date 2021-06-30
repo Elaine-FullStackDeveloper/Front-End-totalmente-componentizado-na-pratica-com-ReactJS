@@ -43,19 +43,19 @@ my-app<br/>
 ├── node_modules<br/>
 ├── package.json<br/>
 ├── .gitignore<br/>
-├── public.
-│   ├── favicon.ico.
-│   ├── index.html.
-│   └── manifest.json.
-└── src.
-    ├── App.css.
-    ├── App.js.
-    ├── App.test.js.
-    ├── index.css.
-    ├── index.js.
-    ├── logo.svg.
-    └── serviceWorker.js.
-    └── setupTests.js.
+├── public<br/>
+│   ├── favicon.ico<br/>
+│   ├── index.html<br/>
+│   └── manifest.json<br/>
+└── src<br/>
+    ├── App.css<br/>
+    ├── App.js<br/>
+    ├── App.test.js<br/>
+    ├── index.css<br/>
+    ├── index.js<br/>
+    ├── logo.svg<br/>
+    └── serviceWorker.js<br/>
+    └── setupTests.js<br/>
 
 (https://github.com/facebook/create-react-app#creating-an-app)
 
