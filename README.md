@@ -1,3 +1,10 @@
+#Projeto Digital Innovation One
+
+Criando um front-end totalmente componentizado na prática com ReactJS
+
+Como resultado temos uma página, na qual podemos pesquisar por usuários do Github, usando apenas seu username.
+
+#Requisitos para o projeto rodar:
 
 Instalação npm
 $ sudo apt install nodejs
@@ -8,7 +15,6 @@ $ sudo npm install -g npm@latest
 Instalação React Native CLI
 Com o NodeJS instalado, podemos instalar o CLI (Command Line Interface) do React Native:
 $ sudo npm install -g react-native-cli
-
 
 Axios
 Promise based HTTP client for the browser and node.js
@@ -53,8 +59,7 @@ my-app
 
 (https://github.com/facebook/create-react-app#creating-an-app)
 
-Executar o app
-
+Executar o app:
 $ npm start ou yarn start
 
 Executa o aplicativo em modo de desenvolvimento.
